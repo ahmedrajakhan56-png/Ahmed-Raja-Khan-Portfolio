@@ -1,5 +1,5 @@
 # 🇦🇪 Ahmed Raja Khan - Data Analyst Portfolio
- Open to UAE, Saudi Arabia, Qatar*
+### *GCC Market Focus | Open to UAE, Saudi Arabia, Qatar*
 
 <div align="center">
   
@@ -43,6 +43,18 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 📄 **RESUME**
+
+<div align="center">
+  
+[![View Resume](https://img.shields.io/badge/View_Resume-Click_Here-1A4D8C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ahmedrajakhan/Ahmed-Raja-Khan-Portfolio/blob/main/AHMED%20RAJA%20KHAN%20Lucknow%2C%20Uttar%20Pradesh%20%20%2B91-XXXXXXXXXX%20%20ahmedrajakhan%40email.com%20%5BLinkedIn%20Profile%5D%20%5BPortfolio%20Link%5D.pdf%20(6).pdf)
+
+**ATS-Friendly Resume | 100/100 Score | Gulf Market Optimized**
+
 </div>
 
 ---
@@ -214,6 +226,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrajakhan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedrajakhan56-png)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%209519764846-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919519764846)
+
+</div>
+
+<div align="center">
+  
+### 📄 **ATS-Optimized Resume**
+[![View Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-Click%20Here-1A4D8C?style=for-the-badge)](https://github.com/ahmedrajakhan/Ahmed-Raja-Khan-Portfolio/blob/main/AHMED%20RAJA%20KHAN%20Lucknow%2C%20Uttar%20Pradesh%20%20%2B91-XXXXXXXXXX%20%20ahmedrajakhan%40email.com%20%5BLinkedIn%20Profile%5D%20%5BPortfolio%20Link%5D.pdf%20(6).pdf)
 
 </div>
 
