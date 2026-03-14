@@ -51,7 +51,7 @@
 
 <div align="center">
   
-[![View Resume](https://img.shields.io/badge/View_Resume-Click_Here-1A4D8C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ahmedrajakhan/Ahmed-Raja-Khan-Portfolio/blob/main/AHMED%20RAJA%20KHAN%20Resume.pdf)
+[![View Resume]()
 
 **ATS-Friendly Resume | 94/100 Score | Globally Optimized**
 
